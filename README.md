@@ -7,3 +7,5 @@ This data was gathered on April 10th, 2024 using SharpHound.exe v2.3.3 and the B
 
 # How do I use BloodHound CE?
 This is a question I run into a lot, which is why I was inspired to write the blog post below.
+
+[https://m4lwhere.medium.com/the-ultimate-guide-for-bloodhound-community-edition-bhce-80b574595acf](https://m4lwhere.medium.com/the-ultimate-guide-for-bloodhound-community-edition-bhce-80b574595acf)
