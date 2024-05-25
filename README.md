@@ -1,4 +1,4 @@
-# Bloohound-CE-Sample-Data
+# Bloodhound-CE-Sample-Data
 Sample data to load into Bloodhound Community Edition. Based on GOADv2.
 
 This data is used to help others who want to learn how to use BloodHound Community Edition through sample data. I've noticed that there doesn't seem to be much available sample data to learn how to use BHCE, while there's plenty of sample data for Legacy BloodHound. This repo aims to solve that problem.
